@@ -884,6 +884,10 @@ La mala administración, malas prácticas o falta de seguimiento entorpece las t
 
 Se debe tener en cuenta que la persona debe ser responsable y reportar o abrir nuevos casos o tickets para que se trabaje eficientemente en los cambios y no significa que se deba agregar algo mas de lo solicitado, si no unicamente trabajar en el reporte y comuunicar eficientemente los cambios para que sean revisados por el equipo o el lider del proceso
 
+Otro diagrama
+![image](https://user-images.githubusercontent.com/36908945/148428621-cd0cd5d0-bde7-47bb-b46a-7d858b08d95a.png)
+
+
 ## Clase 23 Defectos y sugerencias
 
 **Defectos**
