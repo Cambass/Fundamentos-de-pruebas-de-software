@@ -588,6 +588,8 @@ Generalmente se espera que el tester siempre este ejecutando pruebas pero muchas
 ### ¿Qué son los elementos?
 
 - Contratos, planes y calendario del proyecto, asi como su presupuesto.
+- ![image](https://user-images.githubusercontent.com/36908945/148418043-2752533c-4684-4d4b-9f62-6d196b62f046.png)
+
 
 - El análisis de requerimientos
 
